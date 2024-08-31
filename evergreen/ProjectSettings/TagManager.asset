@@ -44,3 +44,6 @@ TagManager:
   - name: Hero
     uniqueID: 4006226615
     locked: 0
+  - name: Animal
+    uniqueID: 2947716639
+    locked: 0
